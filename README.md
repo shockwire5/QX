@@ -1,3 +1,3 @@
-# QuantumultX Configs
+# Project QX
 
 QX configs 
